@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World, new pull request 2"
+      value: "World, new pull request 3"
     };
   }
 };
